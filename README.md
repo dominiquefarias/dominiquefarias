@@ -1,56 +1,57 @@
 <h1 align="center">  D O M I N I Q U E · F A R Í A S · O S O R I O </h1>
 
 <p align="center">
-  <img src="<p align="center">
-  <img src="https://raw.githubusercontent.com/K-S-I-2-0-2-2/K-S-I-2-0-2-2/main/assets/line-purple.gif" width="100%">
-</p>" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=kashida&color=8a2be2&height=150&section=header&text=💜%20Welcome%20to%20my%20Space%20💜&fontSize=50&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/lines/purple.gif" width="100%" height="2px">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rizwan-Aman/Rizwan-Aman/main/assets/coffee.gif" width="100px">
 </p>
 
 <h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
-</p>
 
 <h2 align="center">🔍 Perfil Profesional 💜 </h2>
 
 Soy una desarrolladora con un perfil técnico sólido y una mentalidad orientada a la resolución de problemas. Mi enfoque principal es el **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde combino la lógica del backend con interfaces funcionales y eficientes. 
 
-Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos y el desarrollo de software escalable, trabajando en entornos **Linux (Ubuntu)** y optimizando procesos de desarrollo mediante herramientas modernas. Mi objetivo es aportar soluciones innovadoras en proyectos de alto impacto tecnológico.
+Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos y el desarrollo de software escalable, trabajando en entornos **Linux (Ubuntu)** y optimizando procesos de desarrollo mediante herramientas modernas.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/lines/purple.gif" width="100%" height="2px">
 </p>
+
+---
 
 ### 🚀 Formación & Proyectos
 
-* 🎓 **Grado Superior en DAM** (Desarrollo de Aplicaciones Multiplataforma) - CEAC FP Valencia.
-* 🛠️ **Proyecto Destacado:** `Task Master`, una aplicación integral de gestión de tareas diseñada para optimizar la productividad estudiantil.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
-</p>
+* 🎓 **Grado Superior en DAM** - CEAC FP Valencia.
+* 🛠️ **Proyecto Destacado:** `Task Master`, app de gestión para estudiantes.
 
 ### ⚙️ Stack Tecnológico (Skills) 💜
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Purple%20Heart.png" alt="Purple Heart" width="80" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,javascript,mysql,mongodb,git,ubuntu,vscode&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
-</p>
+---
 
 ### 📊 Actividad en GitHub 💜
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&title_color=bf94ff&icon_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Stats de Dominique" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&title_color=bf94ff&icon_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&title_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Langs" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
-</p>
+---
 
 ### ✉️ Contacto 💜
 <p align="left">
