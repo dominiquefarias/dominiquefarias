@@ -1,6 +1,10 @@
 <h1 align="center">  D O M I N I Q U E · F A R Í A S · O S O R I O </h1>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=kashida&color=8a2be2&height=150&section=header&text=💜%20Welcome%20to%20my%20Space%20💜&fontSize=50&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/lines/purple.gif" width="100%" height="2px">
 </p>
 
@@ -21,16 +25,17 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
 ### 🚀 Formación & Proyectos
 
 * 🎓 **Grado Superior en DAM** (Desarrollo de Aplicaciones Multiplataforma) - CEAC FP Valencia.
- 💜 
+* 🛠️ **Proyecto Destacado:** `Task Master`, una aplicación integral de gestión de tareas diseñada para optimizar la productividad estudiantil.
 
 ### ⚙️ Stack Tecnológico (Skills) 💜
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,mysql,mongodb,git,ubuntu,vscode&theme=dark" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Purple%20Heart.png" alt="Purple Heart" width="80" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Folder" width="80" />
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,mysql,mongodb,git,ubuntu,vscode&theme=dark" />
 </p>
 
 ---
@@ -38,8 +43,8 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
 ### 📊 Actividad en GitHub 💜
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&title_color=bf94ff&icon_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Stats de Dominique en morado" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&title_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Languajes más usados" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&title_color=bf94ff&icon_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Stats de Dominique" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&title_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Langs" height="170" />
 </p>
 
 ---
@@ -51,10 +56,6 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dominiquefarias&label=Vistas%20al%20Perfil%20👀&color=8a2be2&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/lines/purple.gif" width="100%" height="2px">
 </p>
 
 <p align="center">
