@@ -1,20 +1,20 @@
 <h1 align="center">  D O M I N I Q U E · F A R Í A S · O S O R I O </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/lines/purple.gif" width="100%" height="2px">
 </p>
 
 <h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9D50FF&height=2&section=header" width="100%">
-</p>
 
 <h2 align="center">🔍 Perfil Profesional 💜 </h2>
 
 Soy una desarrolladora con un perfil técnico sólido y una mentalidad orientada a la resolución de problemas. Mi enfoque principal es el **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde combino la lógica del backend con interfaces funcionales y eficientes. 
 
 Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos y el desarrollo de software escalable, trabajando en entornos **Linux (Ubuntu)** y optimizando procesos de desarrollo mediante herramientas modernas. Mi objetivo es aportar soluciones innovadoras en proyectos de alto impacto tecnológico.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/lines/purple.gif" width="100%" height="2px">
+</p>
 
 ---
 
@@ -26,8 +26,18 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
 ### ⚙️ Stack Tecnológico (Skills) 💜
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Purple%20Heart.png" alt="Purple Heart" width="80" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,javascript,mysql,mongodb,git,ubuntu,vscode&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Folder" width="80" />
+</p>
+
 ---
 
 ### 📊 Actividad en GitHub 💜
@@ -36,6 +46,7 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
   <img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&title_color=bf94ff&icon_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Stats de Dominique en morado" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&title_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Languajes más usados" height="170" />
 </p>
+
 ---
 
 ### ✉️ Contacto 💜
@@ -45,6 +56,10 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dominiquefarias&label=Vistas%20al%20Perfil%20👀&color=8a2be2&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/lines/purple.gif" width="100%" height="2px">
 </p>
 
 <p align="center">
