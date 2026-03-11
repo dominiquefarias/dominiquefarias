@@ -1,6 +1,8 @@
 <h1 align="center">  D O M I N I Q U E · F A R Í A S · O S O R I O </h1>
 
-# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=soft&color=8a2be2&height=150&section=header&text=⚡ Dominique's Code Lab ⚡&fontSize=50&animation=fadeIn" width="100%" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+</p>
 
 <h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
 
