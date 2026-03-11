@@ -4,11 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
 </p>
 
+<h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
 </p>
-
-<h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
 
 <h2 align="center">🔍 Perfil Profesional 💜 </h2>
 
@@ -17,10 +17,8 @@ Soy una desarrolladora con un perfil técnico sólido y una mentalidad orientada
 Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos y el desarrollo de software escalable, trabajando en entornos **Linux (Ubuntu)** y optimizando procesos de desarrollo mediante herramientas modernas. Mi objetivo es aportar soluciones innovadoras en proyectos de alto impacto tecnológico.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/lines/purple.gif" width="100%" height="2px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
 </p>
-
----
 
 ### 🚀 Formación & Proyectos
 
@@ -38,7 +36,9 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
   <img src="https://skillicons.dev/icons?i=python,php,javascript,mysql,mongodb,git,ubuntu,vscode&theme=dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
+</p>
 
 ### 📊 Actividad en GitHub 💜
 
@@ -47,7 +47,9 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&title_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Langs" height="170" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
+</p>
 
 ### ✉️ Contacto 💜
 <p align="left">
