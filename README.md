@@ -26,11 +26,6 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
 ### ⚙️ Stack Tecnológico (Skills) 💜
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Purple%20Heart.png" alt="Purple Heart" width="80" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,javascript,mysql,mongodb,git,ubuntu,vscode&theme=dark" />
 </p>
 
