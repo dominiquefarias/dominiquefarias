@@ -5,7 +5,7 @@
 <h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3Znd4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvJC/giphy.gif" width="100%" alt="Pixel Art Purple Space">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 </p>
 
 <h2 align="center">🔍 Perfil Profesional 💜 </h2>
