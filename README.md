@@ -1,13 +1,13 @@
 <h1 align="center">  D O M I N I Q U E · F A R Í A S · O S O R I O </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
 </p>
 
 <h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Stephan-Halarewicz/Stephan-Halarewicz/master/assets/bar-purp.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9D50FF&height=2&section=header" width="100%">
 </p>
 
 <h2 align="center">🔍 Perfil Profesional 💜 </h2>
