@@ -44,3 +44,7 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dominiquefarias&label=Vistas%20al%20Perfil%20👀&color=8a2be2&style=flat-square" alt="Views" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=100&section=footer" />
+</p>
