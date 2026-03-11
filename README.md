@@ -5,7 +5,7 @@
 <h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+  <img src="https://raw.githubusercontent.com/Stephan-Halarewicz/Stephan-Halarewicz/master/assets/bar-purp.gif" width="100%" height="15px">
 </p>
 
 <h2 align="center">🔍 Perfil Profesional 💜 </h2>
