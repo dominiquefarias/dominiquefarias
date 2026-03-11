@@ -25,6 +25,10 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
 * 🎓 **Grado Superior en DAM** (Desarrollo de Aplicaciones Multiplataforma) - CEAC FP Valencia.
 * 🛠️ **Proyecto Destacado:** `Task Master`, una aplicación integral de gestión de tareas diseñada para optimizar la productividad estudiantil.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
+</p>
+
 ### ⚙️ Stack Tecnológico (Skills) 💜
 
 <p align="center">
