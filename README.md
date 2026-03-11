@@ -1,11 +1,11 @@
 <h1 align="center">  D O M I N I Q U E · F A R Í A S · O S O R I O </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=kashida&color=8a2be2&height=150&section=header&text=💜%20Welcome%20to%20my%20Space%20💜&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/lines/purple.gif" width="100%" height="2px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
 </p>
 
 <h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
