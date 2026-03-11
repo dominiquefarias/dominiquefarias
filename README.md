@@ -1,15 +1,14 @@
-<h1 align="center"> ⚡ D O M I N I Q U E · F A R Í A S · O S O R I O ⚡</h1>
+<h1 align="center">  D O M I N I Q U E · F A R Í A S · O S O R I O </h1>
 
 # <p align="center"> <img src="https://capsule-render.vercel.app/render?type=soft&color=8a2be2&height=150&section=header&text=⚡ Dominique's Code Lab ⚡&fontSize=50&animation=fadeIn" width="100%" /> </p>
 
 <h2 align="center"> 💜 Estudiante de DAM | Future Developer en proceso 💜 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayccoll/Notes/master/resources/github-pro-profile-readme.gif" width="100%" alt="Linea divisoria con movimiento">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3Znd4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvJC/giphy.gif" width="100%" alt="Pixel Art Purple Space">
 </p>
 
-
-<h2 align="center">🔍 Perfil Profesional </h2>
+<h2 align="center">🔍 Perfil Profesional 💜 </h2>
 
 Soy una desarrolladora con un perfil técnico sólido y una mentalidad orientada a la resolución de problemas. Mi enfoque principal es el **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde combino la lógica del backend con interfaces funcionales y eficientes. 
 
@@ -20,31 +19,24 @@ Actualmente, estoy potenciando mis habilidades en la gestión de bases de datos 
 ### 🚀 Formación & Proyectos
 
 * 🎓 **Grado Superior en DAM** (Desarrollo de Aplicaciones Multiplataforma) - CEAC FP Valencia.
+ 💜 
 
-## 💜 ¿Cómo va mi código? 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&title_color=bf94ff&icon_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Stats de Dominique en morado" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&title_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Languajes más usados" height="170" />
-</p>
-
-### ⚙️ Stack Tecnológico (Skills)
+### ⚙️ Stack Tecnológico (Skills) 💜
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,javascript,mysql,mongodb,git,ubuntu,vscode&theme=dark" />
 </p>
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Actividad en GitHub 💜
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats de Dominique" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&title_color=bf94ff&icon_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Stats de Dominique en morado" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&title_color=bf94ff&border_color=bf94ff&border_radius=10" alt="Languajes más usados" height="170" />
 </p>
-
 ---
 
-### ✉️ Contacto
+### ✉️ Contacto 💜
 <p align="left">
 <a href="https://github.com/dominiquefarias" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
