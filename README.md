@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Dominique%20Far%C3%ADas%20Osorio&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=DAM%20Student%20%7C%20Future%20Developer%20%F0%9F%92%9C&descSize=19&descAlignY=82&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=230&section=header&text=Dominique%20Far%C3%ADas%20Osorio&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=DAM%20Student%20%7C%20Future%20Developer%20%F0%9F%92%9C&descSize=20&descAlignY=82&descAlign=50" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D50FF&center=true&vCenter=true&width=520&lines=Hola!+Soy+Dominique+%F0%9F%91%8B;Estudiante+de+DAM+en+CEAC+FP+Valencia;Apasionada+del+Backend+%26+las+BBDD;Desarrollando+aplicaciones+reales;Linux+%7C+PHP+%7C+Python+%7C+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=9D50FF&center=true&vCenter=true&width=560&lines=Hola!+Soy+Dominique+%F0%9F%91%8B;Estudiante+de+DAM+en+CEAC+FP+Valencia;Apasionada+del+Backend+%26+las+BBDD;Desarrollando+aplicaciones+reales;Linux+%7C+PHP+%7C+Python+%7C+JavaScript;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,9 +14,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dominiquefarias&label=Visitas+al+Perfil+👀&color=8a2be2&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/dominiquefarias?label=Seguidores&style=flat-square&color=9D50FF&labelColor=1a1b27" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=55&section=header" width="100%">
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
+</p>
 
 ---
 
@@ -33,7 +42,21 @@ Actualmente potencio mis habilidades en:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=55&section=header" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=9D50FF&height=60&section=header&reversal=false" width="100%">
+</p>
+
+## 🏆 Trofeos de GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dominiquefarias&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=false&title=Stars,Commits,Repositories,Followers" alt="Trofeos de Dominique" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,9D50FF&height=60&section=header" width="100%">
+</p>
+
+---
 
 ## 🎓 Formación & Proyectos Destacados
 
@@ -58,7 +81,9 @@ Actualmente potencio mis habilidades en:
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=55&section=header" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=9D50FF&height=60&section=header" width="50%">
+</p>
 
 ---
 
@@ -79,7 +104,28 @@ Actualmente potencio mis habilidades en:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=55&section=header" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,12&height=60&section=header" width="100%">
+</p>
+
+---
+
+## 📖 Actualmente Aprendiendo
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=bf94ff&center=true&vCenter=true&width=560&lines=🌱+Explorando+arquitecturas+backend+avanzadas...;🔐+Profundizando+en+seguridad+web...;🤖+Construyendo+agentes+con+IA+local...;🗄️+Optimizando+consultas+en+bases+de+datos...;☁️+Aprendiendo+sobre+despliegue+en+la+nube..." alt="Learning Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aprendiendo-Seguridad_Web-9D50FF?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendiendo-APIs_REST-bf94ff?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendiendo-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendiendo-IA_Local-8a2be2?style=flat-square&logo=ollama&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=9D50FF&height=60&section=header" width="100%">
+</p>
 
 ---
 
@@ -112,7 +158,9 @@ Actualmente potencio mis habilidades en:
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=55&section=header" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
+</p>
 
 ---
 
@@ -124,14 +172,48 @@ Actualmente potencio mis habilidades en:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominiquefarias&theme=tokyonight&ring=9D50FF&fire=bf94ff&currStreakLabel=bf94ff&border=bf94ff&border_radius=10" alt="Streak de Dominique" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominiquefarias&theme=tokyonight&ring=9D50FF&fire=bf94ff&currStreakLabel=bf94ff&border=bf94ff&border_radius=10" alt="Streak de Dominique" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominiquefarias&bg_color=1a1b27&color=9D50FF&line=bf94ff&point=ffffff&area=true&area_color=9D50FF&hide_border=false&border_color=bf94ff&radius=10" alt="Activity Graph" width="90%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=55&section=header" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,20,12&height=60&section=header&reversal=true" width="100%">
+</p>
+
+---
+
+## 🐍 Snake de Contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dominiquefarias/dominiquefarias/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominiquefarias/dominiquefarias/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/dominiquefarias/dominiquefarias/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,9D50FF,bf94ff&height=60&section=header" width="100%">
+</p>
+
+---
+
+## 💬 Frase del Día
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El+código+es+poesía+escrita+en+lógica&author=Dominique" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=3000&color=bf94ff&center=true&vCenter=true&width=600&lines=%22El+mejor+c%C3%B3digo+es+el+que+a%C3%BAn+no+has+escrito%22;%22Primero+resuelve+el+problema%2C+luego+escribe+el+c%C3%B3digo%22;%22El+aprendizaje+nunca+termina+%F0%9F%92%9C%22" alt="Quote Typing" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
+</p>
 
 ---
 
@@ -153,5 +235,5 @@ Actualmente potencio mis habilidades en:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=120&section=footer&text=Gracias+por+visitar!+%F0%9F%92%9C&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=140&section=footer&text=Gracias+por+visitar!+%F0%9F%92%9C&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=72&desc=Keep+coding+%26+keep+growing+%F0%9F%9A%80&descSize=14&descAlignY=88&descAlign=50" width="100%">
 </p>
