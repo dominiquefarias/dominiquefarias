@@ -1,35 +1,48 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=230&section=header&text=Dominique%20Far%C3%ADas%20Osorio&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=DAM%20Student%20%7C%20Future%20Developer%20%F0%9F%92%9C&descSize=20&descAlignY=82&descAlign=50" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=9D50FF&center=true&vCenter=true&width=560&lines=Hola!+Soy+Dominique+%F0%9F%91%8B;Estudiante+de+DAM+en+CEAC+FP+Valencia;Apasionada+del+Backend+%26+las+BBDD;Desarrollando+aplicaciones+reales;Linux+%7C+PHP+%7C+Python+%7C+JavaScript;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<!-- ░░░ HEADER ULTRA PURPLE ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0021,30:3b0071,60:7209b7,85:9D50FF,100:c77dff&height=320&section=header&text=Dominique%20Far%C3%ADas%20Osorio&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=62&desc=DAM%20Student%20%7C%20Future%20Developer%20%F0%9F%92%9C&descSize=22&descAlignY=80&descAlign=50" width="100%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-Estudiante_DAM-9D50FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubicación-Valencia,_Spain-E6E0F8?style=for-the-badge&logo=googlemaps&logoColor=2D2345" />
-  <img src="https://img.shields.io/badge/Enfoque-Backend_%26_Bases_de_Datos-bf94ff?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dominiquefarias&label=Visitas+al+Perfil+👀&color=8a2be2&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/github/followers/dominiquefarias?label=Seguidores&style=flat-square&color=9D50FF&labelColor=1a1b27" />
-</p>
+<!-- ░░░ ANIMATED TYPING ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=800&color=c77dff&center=true&vCenter=true&width=620&lines=Hola!+Soy+Dominique+%F0%9F%91%8B;Estudiante+de+DAM+en+CEAC+FP+Valencia;Apasionada+del+Backend+%26+las+BBDD;Desarrollando+aplicaciones+reales+%F0%9F%92%AB;Linux+%7C+PHP+%7C+Python+%7C+JavaScript;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br><br>
+
+<!-- ░░░ BADGES ░░░ -->
+<img src="https://img.shields.io/badge/Estado-Estudiante_DAM-7209b7?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d0021" />
+&nbsp;
+<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Valencia%2C_Spain-9D50FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=3b0071" />
+&nbsp;
+<img src="https://img.shields.io/badge/Enfoque-Backend_%26_BBDD-c77dff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=560bad" />
+
+<br><br>
+
+<!-- ░░░ COUNTERS ░░░ -->
+<img src="https://komarev.com/ghpvc/?username=dominiquefarias&label=Visitas+al+Perfil+%F0%9F%91%80&color=7209b7&style=flat-square&labelColor=0d0021" alt="Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/dominiquefarias?label=Seguidores&style=flat-square&color=9D50FF&labelColor=0d0021" />
+
+</div>
 
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="370" alt="coding gif" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0021,50:560bad,100:9D50FF&height=90&section=header" width="100%">
 
 ---
 
-## 🧠 Perfil Profesional
+<!-- ░░░░░░░░░░░░░░░░░░ PERFIL PROFESIONAL ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%F0%9F%A7%A0%20%20PERFIL%20PROFESIONAL&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
+</div>
+
+<br>
 
 Soy una desarrolladora con un perfil técnico sólido y una mentalidad orientada a la **resolución de problemas reales**. Mi foco principal es el **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde combino la lógica del backend con interfaces funcionales y eficientes.
 
@@ -40,25 +53,34 @@ Actualmente potencio mis habilidades en:
 - 🐧 Entornos **Linux (Ubuntu)** y automatización de procesos
 - 🤖 Integración de modelos de lenguaje locales (Ollama, IA generativa)
 
----
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=9D50FF&height=60&section=header&reversal=false" width="100%">
-</p>
-
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dominiquefarias&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=false&title=Stars,Commits,Repositories,Followers" alt="Trofeos de Dominique" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,9D50FF&height=60&section=header" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:9D50FF,100:0d0021&height=70&section=header&reversal=true" width="100%">
 
 ---
 
-## 🎓 Formación & Proyectos Destacados
+<!-- ░░░░░░░░░░░░░░░░░░ TROFEOS ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%F0%9F%8F%86%20%20TROFEOS%20DE%20GITHUB&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dominiquefarias&theme=tokyonight&column=4&margin-w=14&margin-h=14&no-bg=true&no-frame=false&title=Stars,Commits,Repositories,Followers" alt="Trofeos de Dominique" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0021,30:3b0071,70:7209b7,100:c77dff&height=90&section=header" width="100%">
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░ FORMACIÓN & PROYECTOS ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%F0%9F%8E%93%20%20FORMACI%C3%93N%20%26%20PROYECTOS%20DESTACADOS&fontSize=24&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
+</div>
+
+<br>
 
 <table align="center">
   <tr>
@@ -81,55 +103,75 @@ Actualmente potencio mis habilidades en:
   </tr>
 </table>
 
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=9D50FF&height=60&section=header" width="50%">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:560bad,100:c77dff&height=70&section=header" width="45%">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0021,50:7209b7,100:9D50FF&height=80&section=header&reversal=false" width="100%">
 
 ---
 
-## ⚙️ Stack Tecnológico
+<!-- ░░░░░░░░░░░░░░░░░░ STACK TECNOLÓGICO ░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,mysql,mongodb,git,ubuntu,vscode&theme=dark&perline=5" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%E2%9A%99%EF%B8%8F%20%20STACK%20TECNOL%C3%93GICO&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,12&height=60&section=header" width="100%">
-</p>
+<img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,mysql,mongodb,git,ubuntu,vscode&theme=dark&perline=5" />
 
----
+<br><br>
 
-## 📖 Actualmente Aprendiendo
+<!-- ALL PURPLE BADGES -->
+<img src="https://img.shields.io/badge/Python-7209b7?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-560bad?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-9D50FF?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-3b0071?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-7209b7?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-560bad?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-9D50FF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-3b0071?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=bf94ff&center=true&vCenter=true&width=560&lines=🌱+Explorando+arquitecturas+backend+avanzadas...;🔐+Profundizando+en+seguridad+web...;🤖+Construyendo+agentes+con+IA+local...;🗄️+Optimizando+consultas+en+bases+de+datos...;☁️+Aprendiendo+sobre+despliegue+en+la+nube..." alt="Learning Typing SVG" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Aprendiendo-Seguridad_Web-9D50FF?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aprendiendo-APIs_REST-bf94ff?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aprendiendo-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aprendiendo-IA_Local-8a2be2?style=flat-square&logo=ollama&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=9D50FF&height=60&section=header" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,50:7209b7,100:0d0021&height=90&section=header" width="100%">
 
 ---
 
-## 🌟 Habilidades
+<!-- ░░░░░░░░░░░░░░░░░░ APRENDIENDO ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%F0%9F%93%96%20%20ACTUALMENTE%20APRENDIENDO&fontSize=24&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=c77dff&center=true&vCenter=true&width=600&lines=%F0%9F%8C%B1+Explorando+arquitecturas+backend+avanzadas...;%F0%9F%94%90+Profundizando+en+seguridad+web...;%F0%9F%A4%96+Construyendo+agentes+con+IA+local...;%F0%9F%97%84%EF%B8%8F+Optimizando+consultas+en+bases+de+datos...;%E2%98%81%EF%B8%8F+Aprendiendo+sobre+despliegue+en+la+nube..." alt="Learning Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Aprendiendo-Seguridad_Web-7209b7?style=flat-square&logo=owasp&logoColor=white&labelColor=0d0021" />
+&nbsp;
+<img src="https://img.shields.io/badge/Aprendiendo-APIs_REST-9D50FF?style=flat-square&logo=postman&logoColor=white&labelColor=0d0021" />
+&nbsp;
+<img src="https://img.shields.io/badge/Aprendiendo-Docker-560bad?style=flat-square&logo=docker&logoColor=white&labelColor=0d0021" />
+&nbsp;
+<img src="https://img.shields.io/badge/Aprendiendo-IA_Local-c77dff?style=flat-square&logo=ollama&logoColor=white&labelColor=0d0021" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0021,100:9D50FF&height=70&section=header" width="100%">
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░ HABILIDADES ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%F0%9F%8C%9F%20%20HABILIDADES&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
+</div>
+
+<br>
 
 <table align="center">
   <tr>
@@ -137,103 +179,117 @@ Actualmente potencio mis habilidades en:
     <th>⚙️ Técnicas</th>
   </tr>
   <tr>
-    <td>✅ Liderazgo</td>
-    <td>✅ Desarrollo Multiplataforma</td>
+    <td>💜 Liderazgo</td>
+    <td>💜 Desarrollo Multiplataforma</td>
   </tr>
   <tr>
-    <td>✅ Comunicación Asertiva</td>
-    <td>✅ Gestión de BBDD (MySQL / SQLite / MongoDB)</td>
+    <td>💜 Comunicación Asertiva</td>
+    <td>💜 Gestión de BBDD (MySQL / SQLite / MongoDB)</td>
   </tr>
   <tr>
-    <td>✅ Resolución de Problemas</td>
-    <td>✅ Entornos Linux (Ubuntu)</td>
+    <td>💜 Resolución de Problemas</td>
+    <td>💜 Entornos Linux (Ubuntu)</td>
   </tr>
   <tr>
-    <td>✅ Trabajo en Equipo</td>
-    <td>✅ Arquitectura de Software</td>
+    <td>💜 Trabajo en Equipo</td>
+    <td>💜 Arquitectura de Software</td>
   </tr>
   <tr>
-    <td>✅ Aprendizaje Continuo</td>
-    <td>✅ Integración con IA (Ollama)</td>
+    <td>💜 Aprendizaje Continuo</td>
+    <td>💜 Integración con IA (Ollama)</td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0021,40:560bad,80:9D50FF,100:c77dff&height=90&section=header" width="100%">
 
 ---
 
-## 📊 Estadísticas de GitHub
+<!-- ░░░░░░░░░░░░░░░░░░ ESTADÍSTICAS ░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&title_color=bf94ff&icon_color=bf94ff&border_color=bf94ff&border_radius=10&hide_border=false&count_private=true" alt="Stats de Dominique" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&title_color=bf94ff&border_color=bf94ff&border_radius=10&langs_count=8" alt="Langs de Dominique" height="170" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%F0%9F%93%8A%20%20ESTAD%C3%8DSTICAS%20DE%20GITHUB&fontSize=24&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominiquefarias&theme=tokyonight&ring=9D50FF&fire=bf94ff&currStreakLabel=bf94ff&border=bf94ff&border_radius=10" alt="Streak de Dominique" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominiquefarias&bg_color=1a1b27&color=9D50FF&line=bf94ff&point=ffffff&area=true&area_color=9D50FF&hide_border=false&border_color=bf94ff&radius=10" alt="Activity Graph" width="90%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=dominiquefarias&show_icons=true&theme=tokyonight&title_color=c77dff&icon_color=9D50FF&border_color=7209b7&bg_color=0d0021&border_radius=12&hide_border=false&count_private=true" alt="Stats de Dominique" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquefarias&layout=compact&theme=tokyonight&title_color=c77dff&border_color=7209b7&bg_color=0d0021&border_radius=12&langs_count=8" alt="Langs de Dominique" height="170" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,20,12&height=60&section=header&reversal=true" width="100%">
-</p>
+<br><br>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dominiquefarias&theme=tokyonight&ring=9D50FF&fire=c77dff&currStreakLabel=c77dff&border=7209b7&background=0d0021&border_radius=12" alt="Streak de Dominique" />
 
-## 🐍 Snake de Contribuciones
+<br><br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dominiquefarias/dominiquefarias/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominiquefarias/dominiquefarias/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/dominiquefarias/dominiquefarias/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dominiquefarias&bg_color=0d0021&color=c77dff&line=9D50FF&point=ffffff&area=true&area_color=7209b7&hide_border=false&border_color=7209b7&radius=12" alt="Activity Graph" width="92%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,9D50FF,bf94ff&height=60&section=header" width="100%">
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:c77dff,50:560bad,100:0d0021&height=80&section=header&reversal=true" width="100%">
 
 ---
 
-## 💬 Frase del Día
+<!-- ░░░░░░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░░░░░░ -->
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El+código+es+poesía+escrita+en+lógica&author=Dominique" alt="Dev Quote" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%F0%9F%90%8D%20%20SNAKE%20DE%20CONTRIBUCIONES&fontSize=24&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=3000&color=bf94ff&center=true&vCenter=true&width=600&lines=%22El+mejor+c%C3%B3digo+es+el+que+a%C3%BAn+no+has+escrito%22;%22Primero+resuelve+el+problema%2C+luego+escribe+el+c%C3%B3digo%22;%22El+aprendizaje+nunca+termina+%F0%9F%92%9C%22" alt="Quote Typing" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=60&section=header" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dominiquefarias/dominiquefarias/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominiquefarias/dominiquefarias/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/dominiquefarias/dominiquefarias/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
----
+</div>
 
-## ✉️ Contacto
-
-<p align="center">
-  <a href="https://github.com/dominiquefarias" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:dominiquefarias21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <em>📍 Mislata, Valencia 🇪🇸 · Disponible para colaborar en proyectos interesantes 💜</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0021,30:3b0071,60:7209b7,100:9D50FF&height=90&section=header" width="100%">
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50FF&height=140&section=footer&text=Gracias+por+visitar!+%F0%9F%92%9C&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=72&desc=Keep+coding+%26+keep+growing+%F0%9F%9A%80&descSize=14&descAlignY=88&descAlign=50" width="100%">
-</p>
+<!-- ░░░░░░░░░░░░░░░░░░ FRASE DEL DÍA ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%F0%9F%92%AC%20%20FRASE%20DEL%20D%C3%8DA&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El+c%C3%B3digo+es+poes%C3%ADa+escrita+en+l%C3%B3gica&author=Dominique" alt="Dev Quote" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=17&pause=3000&color=c77dff&center=true&vCenter=true&width=620&lines=%22El+mejor+c%C3%B3digo+es+el+que+a%C3%BAn+no+has+escrito%22;%22Primero+resuelve+el+problema%2C+luego+escribe+el+c%C3%B3digo%22;%22El+aprendizaje+nunca+termina+%F0%9F%92%9C%22" alt="Quote Typing" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50FF,50:560bad,100:0d0021&height=90&section=header" width="100%">
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░ CONTACTO ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0071,100:7209b7&height=55&text=%E2%9C%89%EF%B8%8F%20%20CONTACTO&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="75%">
+
+<br><br>
+
+<a href="https://github.com/dominiquefarias" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0d0021?style=for-the-badge&logo=github&logoColor=c77dff" />
+</a>
+&nbsp;
+<a href="mailto:dominiquefarias21@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-7209b7?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<em>📍 Valencia 🇪🇸 · Disponible para colaborar en proyectos interesantes 💜</em>
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0021,30:3b0071,60:7209b7,85:9D50FF,100:c77dff&height=180&section=footer&text=Gracias+por+visitar!+%F0%9F%92%9C&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=68&desc=Keep+coding+%26+keep+growing+%F0%9F%9A%80&descSize=16&descAlignY=85&descAlign=50" width="100%">
